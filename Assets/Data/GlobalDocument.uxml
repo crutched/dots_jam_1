@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement style="flex-grow: 1; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;">
+        <engine:Label text="asdfasdfasdfasdf" name="globalInfo" style="color: rgb(0, 0, 0); font-size: 40px; -unity-font-style: bold; white-space: normal; -unity-text-align: upper-right; align-self: flex-end; background-color: rgba(212, 212, 212, 0.15); padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;" />
+    </engine:VisualElement>
+</engine:UXML>
